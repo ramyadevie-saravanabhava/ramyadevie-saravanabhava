@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 Welcome to my Github page! I am currently finishing my Matsers's in Information system
 <br>
-<img float="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://github.com/ramyadevie-saravanabhava/ramyadevie-saravanabhava/blob/main/Coding.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyadevie-saravanabhava&label=Profile%20views&color=0e75b6&style=flat" alt="ramyadevie-saravanabhava" /> </p>
 
