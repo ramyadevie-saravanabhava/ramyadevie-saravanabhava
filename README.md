@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm RamyaDevie</h1>
 <h3 align="center">A passionate full stack developer</h3>
+<img float="right" alt="coding" width="400" src="https://www.mobileappdaily.com/successful-mobile-app-developer-skills">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyadevie-saravanabhava&label=Profile%20views&color=0e75b6&style=flat" alt="ramyadevie-saravanabhava" /> </p>
 
